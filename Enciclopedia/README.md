@@ -47,3 +47,4 @@ y expone una API Flask que devuelve los datos en formato JSON.
 
 4. Abre en el navegador:
    http://127.0.0.1:5000/palabras
+
